@@ -1,3 +1,4 @@
+/* -------------------- Margem Top -------------------- */
 .top1{margin-top:1px;}
 .top2{margin-top:2px;}
 .top3{margin-top:3px;}
@@ -34,6 +35,7 @@
 .top200{margin-top:200px;}
 .top250{margin-top:250px;}
 
+/* -------------------- Margem Bottom -------------------- */
 .down1{margin-bottom:1px;}
 .down2{margin-bottom:2px;}
 .down3{margin-bottom:3px;}
@@ -69,3 +71,8 @@
 .down150{margin-bottom:150px;}
 .down200{margin-bottom:200px;}
 .down250{margin-bottom:250px;}
+
+/* -------------------- Cores -------------------- */
+.black{color: #000000;}
+.grey{color: #9f9f9f;}
+.white{color: #ffffff;}
